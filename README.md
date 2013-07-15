@@ -1,4 +1,4 @@
 responsivar.js
 ==============
 
-Responsivar.js
+Store variables in your mediaqueries.
