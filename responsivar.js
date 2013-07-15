@@ -1,7 +1,7 @@
 //
 // Responsivar.js 0.0.1
 // Store variables in your media queries
-// http://github.com/wixo/responsivar
+// http://github.com/wixo/responsivar.js
 //
 
 /*jshint laxcomma:true, smarttabs:true, forin:true, noarg:true, noempty:true, eqeqeq:true, laxbreak:true, bitwise:true, strict:true, undef:true, unused:true, curly:true, browser:true, indent:4, maxerr:50 */
